@@ -8,8 +8,3 @@ public:
         return offsetX * offsetX + offsetY * offsetY;
     }
 };
-
-// Distance helper. Implements SWR-1, the short form of SWR-01.
-double distance(double x, double y) {
-    return x + y;
-}

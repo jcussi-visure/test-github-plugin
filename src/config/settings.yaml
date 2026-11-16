@@ -1,3 +1,0 @@
-# Geofence radius for SWR-04 (YAML has no functions: nothing traces).
-geofence:
-  radius_m: 500
