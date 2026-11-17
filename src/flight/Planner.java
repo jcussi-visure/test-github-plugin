@@ -1,7 +1,6 @@
 package flight;
 
 public class Planner {
-    /* an unclosed comment
     // Keeps every waypoint inside the geofence. Implements SWR-04.
     public boolean inside(double lat, double lon) {
         // SWR-05 inside the body: never traced.
